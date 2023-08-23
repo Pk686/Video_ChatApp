@@ -1,1 +1,1 @@
-# This is VIDEO CHAT APPLICATION made using REACTand ZEGOCLOUD DEVELOPER TOOL.
+# This is Video Chat Application made using REACT and ZEGOCLOUD DEVELOPER TOOL.
